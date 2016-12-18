@@ -28,7 +28,7 @@ var GreeterForm = React.createClass({
 						<textarea ref="message" placeholder="enter message"></textarea>
           </div>
 					<div>
-						<button>Enter Updates</button>
+						<button>Submit</button>
 					</div>
         </form>
     );

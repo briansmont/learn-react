@@ -19874,7 +19874,7 @@
 	        React.createElement(
 	          'button',
 	          null,
-	          'Enter Updates'
+	          'Submit'
 	        )
 	      )
 	    );
